@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "isOrdered": true,
+  "folders": {
+    "docs": {
+      "name": "docs",
+      "isOrdered": true,
+      "folders": {
+        "dglb": {
+          "name": "dglb",
+          "isOrdered": true,
+          "folders": {},
+          "files": {
+            "firstdoc": 0
+          }
+        }
+      },
+      "files": {}
+    }
+  },
+  "files": {
+    "README": 0
+  }
+}
